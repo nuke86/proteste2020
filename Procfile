@@ -1,1 +1,1 @@
-web: HOST=0.0.0.0 PORT=3000 npm start
+web: HOST=0.0.0.0 PORT=35729 npm start
