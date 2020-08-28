@@ -1,2 +1,1 @@
-heroku ps:scale web=0
-heroku ps:scale worker=1
+worker: HOST=0.0.0.0 PORT=3000 npm start run
