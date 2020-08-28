@@ -1,1 +1,1 @@
-worker: HOST=0.0.0.0 PORT=3000 npm start run
+web: npm start run HOST=0.0.0.0 PORT=3000
