@@ -1,1 +1,1 @@
-web: bundle exec thin start -p $PORT
+web: PORT=3000 npm start run
